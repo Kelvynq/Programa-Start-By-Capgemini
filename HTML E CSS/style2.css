@@ -1,0 +1,46 @@
+body{
+    background-color: #000;
+    margin: 0;
+}
+.box{
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    border: 3px solid yellow;
+    padding: 10px;
+    margin: 10px 0 5px 10px;
+ }
+ .vermelho{
+    background-color: red;
+    margin-top: 0px;
+ }
+ .azul{
+    background-color: blue;
+    margin-bottom: 50px;
+ }
+ .verde{
+    background-color: green;
+    margin-left: 0px;
+ }
+ /*
+.box{
+   box-sizing: content-box;
+   height: 100px;
+   width: 100px;
+   border: 2px dotted #000;
+}
+.vermelho{
+   background-color: red;
+   border-width: 0.1rem;
+   border-bottom-width: 0;
+   border-style: dashed;
+}
+.azul{
+   background-color: blue;
+   border-width: 10px 0 5px 3px;
+   border-bottom-style: double ;
+}
+.verde{
+   background-color: green;
+   border-style: solid ;
+}*/ 
